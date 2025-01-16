@@ -4,15 +4,12 @@
 ▪️
 ![image-1](https://github.com/user-attachments/assets/f771252f-2143-4bea-a4ec-56c0e954caf8)
 
-![image-2](https://github.com/user-attachments/assets/d7fecab9-a1e9-45a6-8f48-9c3a752bcc7e)
+![Screenshot 2025-01-16 212136](https://github.com/user-attachments/assets/b97ad57b-dac0-4b87-90e7-b0bc99dffb38)
 
-▪️
-![image-3](https://github.com/user-attachments/assets/acf1616a-bee7-45cb-ba4d-1e70034ec423)
+![Screenshot 2025-01-16 212200](https://github.com/user-attachments/assets/4d8e39a3-589a-4093-930b-dc747f644a31)
 
-![image-5](https://github.com/user-attachments/assets/7f2cfd30-fb51-48e5-85a2-55c704fe5306)
 
-▪️
-![image-5](https://github.com/user-attachments/assets/48b623d1-70a8-4387-9146-76f8a675feac)
+![Uploading Screenshot 2025-01-16 212638.png…]()
 
 ## steps required for installation
 
