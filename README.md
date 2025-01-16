@@ -9,7 +9,8 @@
 ![Screenshot 2025-01-16 212200](https://github.com/user-attachments/assets/4d8e39a3-589a-4093-930b-dc747f644a31)
 
 
-![Uploading Screenshot 2025-01-16 212638.png…]()
+![Screenshot 2025-01-16 212638](https://github.com/user-attachments/assets/4fff94a9-7728-444b-b727-47dacc808dcc)
+
 
 ## steps required for installation
 
