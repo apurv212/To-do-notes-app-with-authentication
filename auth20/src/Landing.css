@@ -1,4 +1,4 @@
-/* Base light theme with enhanced colors */
+/* light theme */
 .light {
   --bg-color: #f5f7fa;
   --text-color: #2d3748;
@@ -10,7 +10,7 @@
   ---btn-txt:white;
 }
 
-/* Dark theme overrides with richer colors */
+/* Dark theme  */
 .dark {
   --bg-color: #1a202c;
   --text-color: #f7fafc;
@@ -21,7 +21,7 @@
   --shadow-color: rgba(0, 0, 0, 0.3);
 }
 
-/* Apply the variables with smooth transitions */
+
 body {
   background-color: var(--bg-color);
   color: var(--text-color);
@@ -56,7 +56,7 @@ h3{
   box-shadow: 0 4px 20px var(--shadow-color);
 }
 
-/* Enhanced theme toggle button */
+
 .theme-btn {
   position: absolute;
   right: 20px;
@@ -75,7 +75,6 @@ h3{
   transform: translateY(-50%) scale(1.1);
 }
 
-/* Enhanced button styles with animation */
 .ra {
   background-color: var(--button-bg);
   color: white;
@@ -121,7 +120,6 @@ h3{
   transform: translateY(1px);
 }
 
-/* Enhanced list styles */
 .features-list {
   list-style: none;
   padding: 0;
@@ -136,7 +134,7 @@ h3{
   gap: 10px;
 }
 
-/* User profile section */
+
 img {
   border-radius: 50%;
   margin: 20px 0;
