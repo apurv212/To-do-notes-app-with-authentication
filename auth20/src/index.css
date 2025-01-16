@@ -30,7 +30,7 @@
     text-transform: capitalize;
   }
   
-  /* Input Styling */
+  
   input[type="text"] {
     width: 100%;
     padding: 12px 16px;
@@ -51,13 +51,13 @@
     color: #999;
   }
   
-  /* Search Input Specific Styling */
+
   input[type="text"][placeholder="🔍"] {
     max-width: 200px;
     margin-left: 1rem;
   }
   
-  /* Button Styling */
+
   button {
     padding: 8px 16px;
     border: none;
@@ -79,7 +79,7 @@
     transform: translateY(0);
   }
   
-  /* Task Container Styling */
+
   .task-container {
     display: flex;
     align-items: center;
@@ -95,8 +95,7 @@
     transform: translateY(-2px);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
-  
-  /* Checkbox Styling */
+
   input[type="checkbox"] {
     width: 20px;
     height: 20px;
@@ -105,7 +104,7 @@
     accent-color: #3498db;
   }
   
-  /* Text Content Styling */
+
   .task-container span {
     flex: 1;
     font-size: 1rem;
@@ -118,7 +117,7 @@
     color: #999;
   }
   
-  /* DateTime Styling */
+ 
   .task-container p {
     font-size: 0.85rem;
     color: #666;
@@ -126,7 +125,7 @@
     white-space: nowrap;
   }
   
-  /* Action Buttons */
+  
   .task-container button {
     padding: 6px 12px;
     background: transparent;
@@ -139,7 +138,7 @@
     color: #333;
   }
   
-  /* Responsive Design */
+
   @media (max-width: 768px) {
     body {
       padding: 1rem;
@@ -164,7 +163,7 @@
     }
   }
   
-  /* Animations */
+ 
   @keyframes fadeIn {
     from {
       opacity: 0;
@@ -206,12 +205,12 @@
     background-color: #c82333;
   }
   .user-picture {
-    border-radius: 50%; /* Makes the image a circle */
-    width: 50px; /* Adjust the size as needed */
-    height: 50px; /* Adjust the size as needed */
-    object-fit: cover; /* Ensures the image covers the area */
+    border-radius: 50%; 
+    width: 50px; 
+    height: 50px; 
+    object-fit: cover; 
   }
-  /* Locked Note Styling */
+
 .locked-note {
   display: inline-block;
   font-size: 1rem;
